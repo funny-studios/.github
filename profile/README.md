@@ -11,4 +11,6 @@ this is the mod
 ### [GameBanana Studio Link](https://gamebanana.com/studios/36236)
 ### [GameJolt Studio Link](https://gamejolt.com/@funnystudiosfnf)
 
+### [Twitter Studio Link](https://twitter.com/funnystudiosfnf)
+
 ![logo](https://user-images.githubusercontent.com/98495978/204907028-7e8e7da1-9231-4295-8e4f-8b002fe18bae.png)
